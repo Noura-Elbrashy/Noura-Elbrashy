@@ -1,43 +1,40 @@
+
+<div align="center">
+
 # Noura Elbrashy
 
-**Software Engineer · Full-Stack & Backend Development**
+**Software Engineer** · Full-Stack & Backend
 
-*I build the logic behind the experience — turning business rules into software that works end to end.*
+*I turn business rules into software that works end to end.*
 
-[Portfolio](https://noura.mokamu.com/) · [LinkedIn](https://www.linkedin.com/in/noura-el-brashy-34472a338/) · [Email](mailto:noura@mokamu.com)
+<br>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://noura.mokamu.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noura-el-brashy-34472a338/)
+[![Email](https://img.shields.io/badge/Email-6B7280?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noura@mokamu.com)
 
-### The Way I Build
+<br>
 
-A web product is more than a collection of screens. It's data, decisions, workflows, permissions, and interactions working together.
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,angular,ts,js,vite,mongodb,mysql,firebase,aws,vercel,cloudflare&perline=7" alt="Technologies I work with" />
 
-I work across that entire picture — from backend architecture and business logic to frontend experiences and production deployment — with a focus on building practical software for real business needs.
+<br>
 
----
+<sub>Socket.IO · JWT · Stripe · OpenAI API · Agenda.js · Nodemailer · Technical SEO</sub>
 
-### Engineering Toolkit
-
-| Area | Technologies |
-|---|---|
-| **Backend & Systems** | Node.js · Express.js · REST APIs · JWT · Socket.IO |
-| **Frontend & Interfaces** | React · Angular · TypeScript · JavaScript · Vite |
-| **Data & Integrations** | MongoDB · MySQL · Firebase · Stripe API · OpenAI API |
-| **Infrastructure & Delivery** | AWS S3 · Amazon EC2 · Amazon CloudFront · Vercel · Cloudflare |
-| **Automation & Search** | Cron · Agenda.js · Nodemailer · Technical SEO |
+</div>
 
 ---
 
-### Engineering in Practice
+### A Glimpse of My Work
 
-#### WorkGuard — Multi-Tenant Workforce Management SaaS
+**WorkGuard** · *Multi-Tenant Workforce Management SaaS*
 
-A workforce management platform built around complex attendance rules, payroll calculations, leave workflows, access control, and real-time notifications. I also designed and developed its dedicated technical documentation website.
+One example of my end-to-end work, combining backend architecture, business logic, real-time features, frontend development, and production deployment.
 
-[Explore the Product ↗](https://mokamu.com/products/workguard) · [Read the Documentation ↗](https://workguard-docs.mokamu.com/)
+[Product Page ↗](https://mokamu.com/products/workguard) · [Technical Documentation ↗](https://workguard-docs.mokamu.com/)
 
-*More projects are available in the pinned repositories below.*
+<br>
 
----
-
-*Good software isn't just code that runs. It's a system that makes sense, solves a real problem, and works as a whole.*
+<div align="center">
+<sub>Explore more of my work in the pinned repositories below ↓</sub>
+</div>
