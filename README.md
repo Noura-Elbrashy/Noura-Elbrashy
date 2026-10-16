@@ -27,9 +27,9 @@
 
 ### A Glimpse of My Work
 
-**WorkGuard** · *Multi-Tenant Workforce Management SaaS*
+**[WorkGuard](https://mokamu.com/products/workguard)** · *Multi-Tenant Workforce Management SaaS*
 
-One example of my end-to-end work, combining backend architecture, business logic, real-time features, frontend development, and production deployment.
+One example of how I build end-to-end products, connecting backend architecture, business logic, real-time features, frontend development, and production deployment.
 
 [Product Page ↗](https://mokamu.com/products/workguard) · [Technical Documentation ↗](https://workguard-docs.mokamu.com/)
 
