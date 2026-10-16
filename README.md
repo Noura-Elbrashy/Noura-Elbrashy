@@ -1,14 +1,20 @@
-# Hi, I'm Noura 👋
+Noura Elbrashy
 
-### Software Engineer | Full-Stack & Backend Developer
+Software Engineer · Backend Engineering · Full-Stack Development
 
-I build practical web applications that solve real business problems, with a focus on backend engineering, full-stack development, and application architecture.
+I build web products around real business workflows — connecting backend logic, data, APIs, real-time behavior, and interfaces into one coherent system.
 
-[Portfolio](https://noura.mokamu.com/) · [LinkedIn](https://www.linkedin.com/in/noura-el-brashy-34472a338/) · [Email](mailto:noura@mokamu.com)
+Portfolio · LinkedIn · Email
 
----
+Engineering, End to End
 
-### Technical Expertise
+Backend & Systems
+Node.js · Express.js · REST APIs · JWT · Socket.IO
 
-Node.js · Express.js · React · Angular · TypeScript · MongoDB ·
-REST APIs · Socket.IO · AWS
+Product Development
+React · Angular · TypeScript · Responsive Web Applications
+
+Data & Delivery
+MongoDB · MySQL · Firebase Firestore · AWS · Vercel · Cloudflare
+
+From business rules in the backend to the experience on screen, I work across the pieces that make a product function as a whole.
