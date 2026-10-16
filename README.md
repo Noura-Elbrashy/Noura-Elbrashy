@@ -1,18 +1,10 @@
-<div align="center">
-
 # Noura Elbrashy
 
 **Software Engineer · Full-Stack & Backend Development**
 
 *I build the logic behind the experience — turning business rules into software that works end to end.*
 
-<br>
-
-[Portfolio](https://noura.mokamu.com/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/noura-el-brashy-34472a338/) &nbsp;·&nbsp; [Email](mailto:noura@mokamu.com)
-
-</div>
-
-<br>
+[Portfolio](https://noura.mokamu.com/) · [LinkedIn](https://www.linkedin.com/in/noura-el-brashy-34472a338/) · [Email](mailto:noura@mokamu.com)
 
 ---
 
@@ -26,31 +18,26 @@ I work across that entire picture — from backend architecture and business log
 
 ### Engineering Toolkit
 
-| | |
-|:--|:--|
+| Area | Technologies |
+|---|---|
 | **Backend & Systems** | Node.js · Express.js · REST APIs · JWT · Socket.IO |
 | **Frontend & Interfaces** | React · Angular · TypeScript · JavaScript · Vite |
 | **Data & Integrations** | MongoDB · MySQL · Firebase · Stripe API · OpenAI API |
-| **Infrastructure & Delivery** | AWS S3 · Amazon EC2 · CloudFront · Vercel · Cloudflare |
+| **Infrastructure & Delivery** | AWS S3 · Amazon EC2 · Amazon CloudFront · Vercel · Cloudflare |
 | **Automation & Search** | Cron · Agenda.js · Nodemailer · Technical SEO |
 
 ---
 
-### Flagship Project
+### Engineering in Practice
 
 #### WorkGuard — Multi-Tenant Workforce Management SaaS
 
-A workforce management platform built around complex attendance rules, payroll calculations, leave workflows, access control, and real-time notifications. I also developed its dedicated technical documentation website.
+A workforce management platform built around complex attendance rules, payroll calculations, leave workflows, access control, and real-time notifications. I also designed and developed its dedicated technical documentation website.
 
-[Explore the Product ↗](https://mokamu.com/products/workguard) &nbsp;·&nbsp; [Read the Documentation ↗](https://workguard-docs.mokamu.com/)
+[Explore the Product ↗](https://mokamu.com/products/workguard) · [Read the Documentation ↗](https://workguard-docs.mokamu.com/)
 
-> More full-stack projects and experiments are available in my pinned repositories below.
+*More projects are available in the pinned repositories below.*
 
 ---
 
-<div align="center">
-
-*Good software isn't just code that runs.*
-*It's a system that makes sense, solves a real problem, and works as a whole.*
-
-</div>
+*Good software isn't just code that runs. It's a system that makes sense, solves a real problem, and works as a whole.*
